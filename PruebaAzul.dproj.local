@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/18 14:34:28.000.581,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/18 15:51:25.000.239,C:\Users\user name\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Main.pas</Transaction>
+    <Transaction>2021/03/18 15:51:25.000.239,C:\Users\user name\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Main.dfm</Transaction>
+    <Transaction>2021/03/18 15:51:56.000.975,C:\Users\user name\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\PruebaAzul.dproj</Transaction>
+    <Transaction>2021/03/22 12:50:26.000.366,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Unit1.pas</Transaction>
+    <Transaction>2021/03/22 12:50:52.000.309,C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\DataModule.dfm=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Unit1.dfm</Transaction>
+    <Transaction>2021/03/22 12:50:52.000.309,C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\DataModule.pas=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 16:08:45.000.603,C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\DataModule.pas=</Transaction>
+    <Transaction>2021/03/30 12:46:48.000.976,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Unit1.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.705,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.Easy.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.737,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.Encoders.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.784,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.Form.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.855,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.HttpCodes.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.891,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.Interfaces.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.998,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.Slist.pas</Transaction>
+    <Transaction>2021/03/30 12:47:02.000.947,=C:\Users\user name\Documents\Embarcadero\Studio\Projects\Prueba AZUL\Src\Curl.Lib.pas</Transaction>
+  </Transactions>
+</BorlandProject>
